@@ -24,7 +24,7 @@ Solución eficiente para el manejo de turnos y agendas en tiempo real.
 
 ## 📬 Contacto
 
-- **LinkedIn:** [https://www.linkedin.com/in/andres-coronel-164767263/]
-- **Portafolio:** [https://portfolio-eight-mu-1bzcp39g6c.vercel.app/]
+- **LinkedIn:** https://www.linkedin.com/in/andres-coronel-164767263/
+- **Portafolio:** https://portfolio-eight-mu-1bzcp39g6c.vercel.app/
 
 "Enfocado en el aprendizaje continuo y en transformar ideas en código funcional."
