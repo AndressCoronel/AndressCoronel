@@ -6,8 +6,8 @@ Desarrollador Full Stack apasionado por construir aplicaciones web modernas y es
 
 - **Lenguajes:** JavaScript, C#, HTML, CSS
 - **Frameworks/Librerías:** React.js, Next.js, Node.js, Express, Tailwind CSS
-- **Base de Datos:** PostgreSQL, Supabase, Firebase
-- **Herramientas:** Git, GitHub, Unity, Vercel
+- **Base de Datos:** PostgreSQL, Supabase, Firebase, MongoDB
+- **Herramientas:** Git, GitHub, Vercel
 
 ## 📁 Proyectos Destacados
 
